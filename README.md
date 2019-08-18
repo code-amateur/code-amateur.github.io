@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+Trust your instinct .. not this blog..
 
-You can use the [editor on GitHub](https://github.com/code-amateur/code-amateur.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Docker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Setting Up Docker](docs/docker/docker_setup.md)
+* [Basic Commands](docs/docker/basic_commands.md)
 
-### Markdown
+## Kubernetes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Concepts](docs/kubernetes/basics.md)
+* [Basic Commands](docs/kubernetes/commands.md)
 
-```markdown
-Syntax highlighted code block
+## MongoDB
 
-# Header 1
-## Header 2
-### Header 3
+* [MongoDB developer's cheat sheet](docs/mongo/developer_cheatsheet.md)
 
-- Bulleted
-- List
+## NGINX
 
-1. Numbered
-2. List
+* [NGINX Quick Access](docs/nginx/quickaccess.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/code-amateur/code-amateur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Microservices
+### Service Discovery
+* [Setting Up Eureka Discovery Server](docs/microservices/service_discovery/eureka_server.md)
+* [Registering Services to Eureka Server](docs/microservices/service_discovery/registering_services.md)
